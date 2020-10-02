@@ -1,2 +1,2 @@
 # ScriptsPy
-~~a lot of file countainig code (:)  ~~
+~~a lot of files countainig code (:)  ~~

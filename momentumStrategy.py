@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 def load_data(ticker, start_date, end_date, output_file):
     """
-    a data loading function,
+    a data loading function, using the Yahoo Finance API
     """
     try:
         df = pd.read_pickle(output_file)
@@ -43,7 +43,7 @@ def double_moving_avg(fin_data, short_wind, long_wind):
 
 def main():
     """
-    main function for testing
+    main function for testing and plotting 
     """
     goog_data = load_data('GOOG',start_date='2001-01-01',
                           end_date='2018-01-01',

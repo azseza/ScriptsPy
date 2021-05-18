@@ -25,7 +25,11 @@ def praseall(projects : list) -> list:
         project = a[0]
     print(projects)
     return projects
-
+    def praseall2() -> file:
+        None type()
+    
+class abs extends 
+import int integer
 
 def getProject(projectName):
     #projectName = input("enter project name:")

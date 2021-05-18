@@ -1,0 +1,25 @@
+#===============================================================================
+#
+#          FILE: monitorEtc.sh
+# 
+#         USAGE: ./monitorEtc.sh 
+# 
+#   DESCRIPTION: Count :directory, dirr content; and plot them.
+# 
+#       OPTIONS:  -T : trace/map file and parent dirr
+#                 -t : trace/map directory 
+#                 -n : count files  
+#                 -N : Show dirr owner
+#                 -d : write last acces date of file/directory in a file
+#                 -m : write last modif date of file/directory in a file
+#                 -s : 'Dashboard' GNU box plot of number of files and number 
+#                      of dirrs
+#  REQUIREMENTS: /path/of/dirr/
+#          BUGS: ---
+#         NOTES: ---
+#        AUTHOR:  
+#  ORGANIZATION: 
+#       CREATED: 05/17/2021 02:23
+#      REVISION:  ---
+#===============================================================================
+
